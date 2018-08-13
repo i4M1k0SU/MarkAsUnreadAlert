@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>GENERAL</string>
+			<key>footerText</key>
+			<string>GENERAL_FOOTER</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>jp.i4m1k0su.markasunreadalert</string>
+			<key>key</key>
+			<string>sw_enable</string>
+			<key>label</key>
+			<string>ENABLE</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>APPLY_CHANGES_FOOTER</string>
+		</dict>
+		<!-- 設定保存ボタン -->
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>APPLY_CHANGES</string>
+			<key>action</key>
+			<string>respring</string>
+		</dict>
+		<!-- フッター -->
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>DEVELOPER</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>@i4M1k0SU</string>
+			<key>action</key>
+			<string>openTwitter</string>
+			<key>icon</key>
+			<string>/System/Library/PrivateFrameworks/Preferences.framework/Twitter.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>© 2017 i4M1k0SU</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Mark as Unread Alert</string>
+</dict>
+</plist>

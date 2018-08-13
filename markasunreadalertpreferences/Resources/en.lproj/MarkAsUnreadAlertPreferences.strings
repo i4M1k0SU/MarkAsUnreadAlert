@@ -1,0 +1,6 @@
+"GENERAL" = "General";
+"GENERAL_FOOTER" = "Enable/Disable Tweak";
+"ENABLE" = "Enable";
+"APPLY_CHANGES" = "Apply Changes (Respring)";
+"APPLY_CHANGES_FOOTER" = "Respring when setting is applied.";
+"DEVELOPER" = "Developer";

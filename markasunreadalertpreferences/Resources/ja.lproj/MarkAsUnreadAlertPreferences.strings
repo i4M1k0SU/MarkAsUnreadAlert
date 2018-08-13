@@ -1,0 +1,6 @@
+"GENERAL" = "全般";
+"GENERAL_FOOTER" = "機能の有効/無効";
+"ENABLE" = "有効";
+"APPLY_CHANGES" = "変更を適用 (Respring)";
+"APPLY_CHANGES_FOOTER" = "設定の適用時にRespringを行います。";
+"DEVELOPER" = "開発者";
