@@ -1,0 +1,2 @@
+# MarkAsUnreadAlert
+iOS標準メールアプリで全未読を防ぐアラートを表示するTweak
